@@ -60,12 +60,6 @@ Focused on long-term reliability and stability.
 
 ---
 
-## 📥 ACCESS
-
-**[ Distribution Channel ]**
-
----
-
 ## 🔒 PRIVATE ACCESS TIER
 
 After initial setup, users receive:
@@ -75,6 +69,3 @@ After initial setup, users receive:
 - Priority support access
 
 ---
-
-**[] RAGE mode**  
-*Configure. Optimize. Perform.*
