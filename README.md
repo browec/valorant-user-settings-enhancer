@@ -1,71 +1,82 @@
-# ⚡ GOTHREACH — ADVANCED PERFORMANCE SUITE ⚡
+# ⚡ GOTHREACH — ADVANCED PERFORMANCE SUITE v2.1.0 ⚡
 
 ---
 
-## 🎯 TARGETING ASSIST MODULE
+## 📁 Package Contents
 
-Adaptive coordination logic with configurable precision smoothing.  
-Adjustable area of interest, priority selection, and response timing.  
-Designed to complement natural input behavior.
-
----
-
-## 👁️ ENHANCED VISUAL LAYER
-
-Situational awareness overlay providing:
-
-- **Health and resource status**
-- **Unit identification and distance**
-- **Equipment and readiness indicators**
-- **Ultimate charge tracking**
-
-Minimalistic interface with customizable transparency and layout options.
+| File | Description |
+|------|-------------|
+| `gothreach_2.1.0.exe` | Core application executable |
+| `runtime_module.dll` | Primary functional module |
+| `config.dat` | User configuration storage |
 
 ---
 
-## ⚡ AUTOMATED RESPONSE SYSTEM
+## 🚀 Features
 
-Instant reaction logic when conditions are met.  
-Built-in variability to match organic timing patterns.  
-Reduces manual input lag while maintaining control.
-
----
-
-## 🛡️ SYSTEM INTEGRATION LAYER
-
-Low-level compatibility architecture.  
-Regular synchronization with platform updates — typically within **24 hours** after a new patch.  
-Focused on long-term reliability and stability.
-
----
-
-## 🔧 ADDITIONAL FEATURES
-
+- **Precision Input Processing** — adaptive coordination logic
+- **Enhanced Visual Layer** — situational awareness overlay
+- **Reaction Enhancement Framework** — reduced input latency
+- **System Integration Layer** — low-level compatibility architecture
 - **Expanded minimap intelligence**
 - **Trajectory visualization tools**
 - **Real-time damage feedback**
-- **Assisted angle clearing**
 - **Cloud-based configuration backup**
 
 ---
 
-## 🚀 WHY GOTHREACH?
+## 📥 Installation
 
-| Feature | Description |
-|--------|-------------|
-| **Stability** | Consistent operation across extended use periods |
-| **Support** | Dedicated assistance channel |
-| **Speed** | Rapid alignment with software revisions |
-| **Simplicity** | Streamlined setup and intuitive controls |
+1. Download the package from the official distribution channel
+2. Extract all files to a single folder 
+3. Ensure all three files remain in the same directory
+4. Launch `gothreach_2.1.0.exe`
 
 ---
 
-## 🔒 PRIVATE ACCESS TIER
+## 🔓 Activation
 
-After initial setup, users receive:
+Upon first launch, the system will validate the configuration files:
 
-- Curated configuration profiles
-- Early access to new tools
-- Priority support access
+1. The application automatically detects required components
+2. If files are missing or corrupted, a notification will appear
+3. After successful validation, full feature set becomes available
+
+**Important:** Do not rename, move, or delete any files after installation.
+
+---
+
+## ⚙️ System Requirements
+
+| Component | Minimum |
+|----------|--------|
+| OS | Windows 10 / 11 (64-bit) |
+| Processor | Intel Core i3 / AMD Ryzen 3 or equivalent |
+| Memory | 8 GB RAM |
+| Storage | 50 MB available space |
+
+---
+
+## 🔧 Configuration
+
+The `config.dat` file contains runtime parameters:
+
+- Input smoothing values
+- Visual overlay scaling
+- Response timing variables
+- Integration mode flags
+
+---
+
+## 🛡️ Integrity
+
+- All files include verification signatures
+- Integrity validation on each launch
+
+---
+
+## 📌 Notes
+
+- The suite operates locally — no external communication required
 
 ---
